@@ -7,5 +7,3 @@ class Person
     end
   end
 end
-Footer
-© 2022 GitHub
